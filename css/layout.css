@@ -472,6 +472,12 @@ ul#nav li.current a { color: #F06000; }
    height: 350px;
    /*border-radius: 100%;*/
 }
+#publications .pacman-pic {
+   position: relative;
+   width: 350px;
+   height: 184px;
+   /*border-radius: 100%;*/
+}
 
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
